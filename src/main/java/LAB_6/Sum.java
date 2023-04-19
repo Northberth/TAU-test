@@ -5,7 +5,7 @@ public class Sum {
 
     }
     public double sum(double[] percentages) {
-        double sum=0;
+        double sum=1;
         for (double percentage:percentages){
             sum+= percentage;
         }
